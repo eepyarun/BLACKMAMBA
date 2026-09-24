@@ -12,3 +12,4 @@ Credits
 The development of Black Mamba Arcade was a collaborative effort by a dedicated team. Arun Jose skillfully handled both the backend and frontend, designing a cohesive user interface that provides an intuitive and enjoyable user experience. Kavin Senthilkumar contributed to the creation of engaging arcade games, enhancing the application's entertainment value. Aditya Menon focused on implementing the game logic and establishing seamless MySQL connectivity, ensuring efficient data management and performance.  Together, their combined efforts brought Black Mamba Arcade to life, creating a valuable tool for stress relief and financial education.
 
 Have fun, enjoy and keep coding :))
+February 2024.
